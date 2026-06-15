@@ -1,12 +1,4 @@
-# Customer Response Prediction - Appian Hackathon
-
-## Project Overview
-This project is for the Appian x IIT-Madras Hackathon 2025, focusing on predicting customer responses to marketing campaigns. The goal is to build a machine learning model that can predict whether a customer will respond positively to a marketing campaign based on demographic information, purchase history, and prior campaign responses.
-
-## Competition Results
-- Final model accuracy: **85.35%**
-- Multiple models ensemble approach combining CatBoost and XGBoost models
-- Achieved high performance through extensive feature engineering and model optimization
+# Customer Response Prediction 
 
 ## Dataset Description
 The dataset contains customer information from a retail/marketing company, including:
