@@ -112,8 +112,4 @@ These insights not only helped with model development but also provide actionabl
 - Bayesian optimization for hyperparameter tuning
 - Time-series based features
 
-## Contributors
-- Monark Shah
 
-## License
-This project is part of the Appian x IIT-Madras Hackathon 2025.
